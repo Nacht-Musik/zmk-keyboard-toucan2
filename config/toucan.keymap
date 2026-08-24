@@ -31,7 +31,7 @@
         sym {
             display-name = "SYM";
             bindings = <
-&trans  &kp EXCL  &kp AT  &kp HASH  &kp DLLR  &kp PRCNT  &kp CARET  &kp AMPS  &kp KP_MULTIPLY  &kp LPAR  &kp RPAR  &kp BSPC  &trans  &kp PIPE  &trans  &kp UP_ARROW  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PLUS  &kp MINUS  &kp EQUAL  &kp BACKSLASH  &kp GRAVE  &kp GRAVE  &trans  &kp COLON  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp DOUBLE_QUOTES  &kp UNDER  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp SEMICOLON  &kp DOUBLE_QUOTES  &kp GRAVE  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp EXCL  &kp AT  &kp HASH  &kp DLLR  &kp PRCNT  &kp CARET  &kp AMPS  &kp KP_MULTIPLY  &kp LPAR  &kp RPAR  &kp BSPC  &trans  &kp PIPE  &trans  &kp UP_ARROW  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp PLUS  &kp MINUS  &kp EQUAL  &kp BACKSLASH  &kp GRAVE  &kp TILDE  &trans  &kp COLON  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp DOUBLE_QUOTES  &kp UNDER  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp SEMICOLON  &kp DOUBLE_QUOTES  &kp GRAVE  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
